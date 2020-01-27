@@ -2,6 +2,7 @@
 title: This is new blog post test
 subtitle: Subtitle here.
 date: 2020-01-27T11:19:00.028Z
+thumb_img_path: /images/2.jpg
 img_path: /images/2.jpg
 excerpt: >-
   Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
