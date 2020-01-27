@@ -3,7 +3,7 @@ title: Release Notes - Azimuth Improvements and New Integrations
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. 
-date: '2017-03-26'
+date: 2020-01-25T23:00:00.000Z
 thumb_img_path: images/1_thumb.jpg
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
