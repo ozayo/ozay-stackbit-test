@@ -1,9 +1,9 @@
 {
   "title": "Ozay Stackbit test",
-  "palette": "blue",
+  "palette": "orange",
   "header": {
     "title": "ozay",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/o-sm (1).png",
     "has_nav": true,
     "menu": {
       "actions": [
